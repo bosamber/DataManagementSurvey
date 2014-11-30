@@ -16,7 +16,7 @@ descriptive_behaviour,health_survey_kings_day,"Health-related behaviour",descrip
 behaviour_skip_meals,health_survey_kings_day,,radio,"Did you skip any of your regular meals? ","1, Absolutely not | 2, Only once | 3, More than once | 999, Do not know | 888, Decline to answer","Regular meals: breakfast, lunch, supper",,,,,,,,,
 behaviour_number_of_drinks,health_survey_kings_day,,text,"What was the number of drinks containing alcohol you had? ",,"Total number during the celebrations",integer,0,100,,,,,,
 behaviour_bed_time,health_survey_kings_day,,radio,"Did you go to bed at the same time as usual? ","1, Every day | 2, Not every day | 3, I did not go to bed at all | 999, Do not know | 888, Decline to answer",,,,,,,,,,
-description_health,health_survey_kings_day,Health,descriptive,"The following four questions are about your physical well-being. Please select the answer that best describes how you felt during that period (as you remember it now).
+description_health,health_survey_kings_day,Health,descriptive,"The following three questions are about your physical well-being. Please select the answer that best describes how you felt during that period (as you remember it now).
 
 During King's Night, King's Day and the day after the celebrations did you suffer from:",,,,,,,,,,,
 health_fatigue,health_survey_kings_day,,radio,"-- Fatigue, irritability or frustration?","1, Not at all | 2, A little | 3, Moderately | 4, Very much so | 999, Do not know | 888, Decline to answer",,,,,,,,,,
