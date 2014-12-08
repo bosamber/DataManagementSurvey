@@ -5,7 +5,9 @@ Git repository for 3rd Assignment for Data Management in Clinical Research - Hea
 
 Contains:
  - README.md
- - SurveyKingsDayToYourHealth_DataDictionary_2014-11-30.csv
+ - SurveyKingsDayToYourHealth_DataDictionary_2014-12-06.csv
+ - DataManagementSurvey.R
+ - Functions_ModifyData.R
 
-Will be updated with R-code used for analysis and peer-reviewed results.
+Will be updated with peer-reviewed results.
 
